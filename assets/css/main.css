@@ -3268,8 +3268,11 @@
 
 		#intro .logo img {
 			display: block;
-			margin-left: 50%;
-			width: 4.5em;
+			margin-left: 35%;
+			width: 10em;
+			border-color: white;
+			border-width: thick;
+
 		}
 
 	#intro header h2 {

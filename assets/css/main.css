@@ -3247,9 +3247,9 @@
 	#intro .logo {
 		border-bottom: 0;
 		margin: 0 0 1em 0;
-		overflow: hidden;
+		display: inline-block;
 		position: relative;
-		width: 4em;
+		width: -0.25em;
 	}
 
 		#intro .logo:before {
@@ -3268,11 +3268,8 @@
 
 		#intro .logo img {
 			display: block;
-			margin-left: 35%;
-			width: 10em;
-			border-color: white;
-			border-width: thick;
-
+			margin: em;
+			width: 7em;
 		}
 
 	#intro header h2 {
